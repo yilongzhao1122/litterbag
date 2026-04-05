@@ -1,0 +1,5 @@
+data/GeoChip_clear.txt filter=lfs diff=lfs merge=lfs -text
+data/group_.cut.treat.0.25.log.RA.txt filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.out filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text

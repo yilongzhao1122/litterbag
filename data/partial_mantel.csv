@@ -1,0 +1,97 @@
+"","env","spec","r","p"
+"1","NO3-N","Bacteria · Half",-0.011,0.534
+"2","NH4-N","Bacteria · Half",0.069,0.199
+"3","Soil TN","Bacteria · Half",0.159,0.042
+"4","Soil TC","Bacteria · Half",0.062,0.246
+"5","pH","Bacteria · Half",-0.01,0.534
+"6","Plant richness","Bacteria · Half",0.121,0.105
+"7","Sampling-month
+moisture","Bacteria · Half",0.093,0.105
+"8","Annual
+moisture","Bacteria · Half",0.011,0.432
+"9","Annual
+temperature","Bacteria · Half",0.121,0.047
+"10","Total plant
+biomass","Bacteria · Half",-0.021,0.606
+"11","C4 biomass","Bacteria · Half",-0.145,0.916
+"12","C3 biomass","Bacteria · Half",0.22,0.019
+"13","NO3-N","Bacteria · Control",-0.044,0.694
+"14","NH4-N","Bacteria · Control",0.241,0.012
+"15","Soil TN","Bacteria · Control",0.281,0.004
+"16","Soil TC","Bacteria · Control",0.169,0.07
+"17","pH","Bacteria · Control",-0.072,0.785
+"18","Plant richness","Bacteria · Control",-0.077,0.764
+"19","Sampling-month
+moisture","Bacteria · Control",0.18,0.021
+"20","Annual
+moisture","Bacteria · Control",0.027,0.37
+"21","Annual
+temperature","Bacteria · Control",0.188,0.007
+"22","Total plant
+biomass","Bacteria · Control",-0.039,0.703
+"23","C4 biomass","Bacteria · Control",0.121,0.101
+"24","C3 biomass","Bacteria · Control",0.077,0.229
+"25","NO3-N","Bacteria · Double",0.004,0.459
+"26","NH4-N","Bacteria · Double",0.131,0.104
+"27","Soil TN","Bacteria · Double",0.075,0.167
+"28","Soil TC","Bacteria · Double",0.065,0.239
+"29","pH","Bacteria · Double",0.242,0.003
+"30","Plant richness","Bacteria · Double",0.046,0.297
+"31","Sampling-month
+moisture","Bacteria · Double",0.029,0.365
+"32","Annual
+moisture","Bacteria · Double",-0.007,0.509
+"33","Annual
+temperature","Bacteria · Double",0.118,0.084
+"34","Total plant
+biomass","Bacteria · Double",0.081,0.103
+"35","C4 biomass","Bacteria · Double",-0.035,0.619
+"36","C3 biomass","Bacteria · Double",-0.042,0.634
+"37","NO3-N","Fungi · Half",0.118,0.113
+"38","NH4-N","Fungi · Half",0.098,0.135
+"39","Soil TN","Fungi · Half",0.189,0.037
+"40","Soil TC","Fungi · Half",0.22,0.026
+"41","pH","Fungi · Half",-0.038,0.67
+"42","Plant richness","Fungi · Half",0.045,0.326
+"43","Sampling-month
+moisture","Fungi · Half",0.131,0.06
+"44","Annual
+moisture","Fungi · Half",0.179,0.041
+"45","Annual
+temperature","Fungi · Half",0.036,0.298
+"46","Total plant
+biomass","Fungi · Half",-0.041,0.697
+"47","C4 biomass","Fungi · Half",-0.014,0.535
+"48","C3 biomass","Fungi · Half",0.066,0.283
+"49","NO3-N","Fungi · Control",0.119,0.091
+"50","NH4-N","Fungi · Control",0.052,0.291
+"51","Soil TN","Fungi · Control",0.012,0.431
+"52","Soil TC","Fungi · Control",0.012,0.432
+"53","pH","Fungi · Control",-0.083,0.79
+"54","Plant richness","Fungi · Control",-0.103,0.808
+"55","Sampling-month
+moisture","Fungi · Control",0.037,0.333
+"56","Annual
+moisture","Fungi · Control",-0.027,0.591
+"57","Annual
+temperature","Fungi · Control",0.228,0.002
+"58","Total plant
+biomass","Fungi · Control",0.046,0.276
+"59","C4 biomass","Fungi · Control",-0.099,0.831
+"60","C3 biomass","Fungi · Control",0.118,0.154
+"61","NO3-N","Fungi · Double",0.033,0.325
+"62","NH4-N","Fungi · Double",-0.095,0.753
+"63","Soil TN","Fungi · Double",-0.065,0.747
+"64","Soil TC","Fungi · Double",-0.024,0.54
+"65","pH","Fungi · Double",0.184,0.032
+"66","Plant richness","Fungi · Double",-0.052,0.664
+"67","Sampling-month
+moisture","Fungi · Double",0.003,0.459
+"68","Annual
+moisture","Fungi · Double",-0.011,0.509
+"69","Annual
+temperature","Fungi · Double",0.078,0.208
+"70","Total plant
+biomass","Fungi · Double",0.075,0.144
+"71","C4 biomass","Fungi · Double",-0.147,0.854
+"72","C3 biomass","Fungi · Double",-0.036,0.56
